@@ -2,8 +2,8 @@
 
 #### Team Lead by day ☼ and runner/hiker/D&D player/gamer/etc... by night ☾
 
-I love starting web projects.
-My expertise is with front-end development and making beautiful, responsive and accessible websites.
+I love starting web projects.<br>
+My expertise is with front-end development and making beautiful, responsive and accessible websites.<br>
 I want to deepen my knowledge in leadership, tech architecture and in DevOps
 
 #### Experiences
