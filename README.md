@@ -1,12 +1,12 @@
-### Hello there 👋
+## Welcome to my Github 👋
 
-#### Team Lead by day ☼ and runner/hiker/D&D player/gamer/etc... by night ☾
+#### Team Lead by day 🌞 and runner/hiker/D&D player/gamer/etc... by night 🌙
 
 I love starting web projects.<br>
 My expertise is with front-end development and making beautiful, responsive and accessible websites.<br>
 I want to deepen my knowledge in leadership, tech architecture and in DevOps
 
-#### Experiences
+### Experiences
 Team Lead - [nventive](https://nventive.com/fr/) (Oct 2022 - now)<br>
 Front-end developper - [Les Mauvais Garçons](https://lesmauvaisgarcons.ca/) (May 2021 - Oct 2022)<br>
 Back-end developper - [Sigmund](https://www.sigmund.ca/) (Sept 2020 - Mai 2021)<br>
