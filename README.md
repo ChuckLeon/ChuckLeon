@@ -30,7 +30,7 @@ Je souhaite approfondir mes connaissances en leadership, architecture technique 
 Chef d'équipe au développement - [nventive](https://nventive.com/fr/) (Oct 2022 - aujourd'hui)<br>
 Développeur front-end - [Les Mauvais Garçons](https://lesmauvaisgarcons.ca/) (Mai 2021 - Oct 2022)<br>
 Développeur back-end - [Sigmund](https://www.sigmund.ca/) (Sept 2020 - Mai 2021)<br>
-Développeur full-stack - [Vision 7 international (Now Plus company)](https://pluscompany.com/fr) (Janv 2017 - Sept 2020)<br>
+Développeur full-stack - [Vision 7 international (Maintenant Plus company)](https://pluscompany.com/fr) (Janv 2017 - Sept 2020)<br>
 
 - ⚙️ Langages utilisés quotidiennement : `.ts`, `.tsx`, `.js`, `.cs`, `.html`, `.scss`
 - 💻 Autres technologies que j'utilise : `Tailwind`, `MaterialUI`, `SQL`,  `Next.js`, `Vue.js`, `Astro.js`, `Statamic`, `Wordpress`, `Azure DevOps`
