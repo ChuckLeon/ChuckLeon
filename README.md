@@ -7,7 +7,8 @@ My expertise is with front-end development and making beautiful, responsive and 
 I want to deepen my knowledge in leadership, tech architecture and in DevOps
 
 ### 🏢 Experiences
-Team Lead - [nventive](https://nventive.com/en/) (Oct 2022 - now)<br>
+Senior Fullstack developper - [Axso](https://www.axso.co/) (Oct 2024 - now)<br>
+Team Lead - [nventive](https://nventive.com/en/) (Oct 2022 - Oct 2024)<br>
 Front-end developper - [Les Mauvais Garçons](https://lesmauvaisgarcons.ca/) (May 2021 - Oct 2022)<br>
 Back-end developper - [Sigmund](https://www.sigmund.ca/) (Sept 2020 - Mai 2021)<br>
 Full-stack developper - [Vision 7 international (Now Plus company)](https://pluscompany.com/en) (Jan 2017 - Sept 2020)<br>
@@ -27,7 +28,8 @@ Mon expertise se situe dans le développement front-end et la création de sites
 Je souhaite approfondir mes connaissances en leadership, architecture technique et en DevOps.
 
 ### 🏢 Expériences
-Chef d'équipe au développement - [nventive](https://nventive.com/fr/) (Oct 2022 - aujourd'hui)<br>
+Développeur full-stack Sénior - [Axso](https://www.axso.co/) (Oct 2024 - aujourd'hui)<br>
+Chef d'équipe au développement - [nventive](https://nventive.com/fr/) (Oct 2022 - Oct 2024)<br>
 Développeur front-end - [Les Mauvais Garçons](https://lesmauvaisgarcons.ca/) (Mai 2021 - Oct 2022)<br>
 Développeur back-end - [Sigmund](https://www.sigmund.ca/) (Sept 2020 - Mai 2021)<br>
 Développeur full-stack - [Vision 7 international (Maintenant Plus company)](https://pluscompany.com/fr) (Janv 2017 - Sept 2020)<br>
